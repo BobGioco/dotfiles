@@ -1,0 +1,13 @@
+[init]
+	defaultBranch = main
+[user]
+	name = BobGioco
+	email = simekjakub47@gmail.com
+[alias]
+	cm = !git checkout main && git pull
+[core]
+	attributesFile = --show-origin
+	excludesfile = /Users/jakubsimek/.config/git/gitignore_global
+	editor = code --wait
+[help]
+	autoCorrect = immediate
